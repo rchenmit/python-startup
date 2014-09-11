@@ -9,7 +9,7 @@ import atexit
 import os
 import readline
 import sys
-sys.path.append('/nv/hcoc1/rchen87/pythonmodules')
+sys.path.append('~/pythonmodules')
 import History
 
 
